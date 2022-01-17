@@ -1,1 +1,1 @@
-Curated bookmarks related to various technologies
+Curated bookmarks which are related to various technologies.
